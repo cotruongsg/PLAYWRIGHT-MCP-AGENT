@@ -1,0 +1,11 @@
+{
+  "name": "playwright-mcp-agent",
+  "version": "1.0.0",
+  "description": "Playwright project for MCP Agent",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0"
+  }
+}
